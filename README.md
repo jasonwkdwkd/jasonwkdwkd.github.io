@@ -1,4 +1,4 @@
-on: 
+[on: 
 on:
   push:
   pull_request:
@@ -16,3 +16,4 @@ on:
         run: script/bootstrap
       - name: test
         run: script/cibuild
+](https://github.com/godofredoninja/Paway.git)
